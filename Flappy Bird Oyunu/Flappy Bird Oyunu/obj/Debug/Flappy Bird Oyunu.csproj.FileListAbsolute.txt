@@ -1,0 +1,10 @@
+C:\Users\06ahm\source\repos\Flappy Bird Oyunu\Flappy Bird Oyunu\bin\Debug\Flappy Bird Oyunu.exe.config
+C:\Users\06ahm\source\repos\Flappy Bird Oyunu\Flappy Bird Oyunu\bin\Debug\Flappy Bird Oyunu.exe
+C:\Users\06ahm\source\repos\Flappy Bird Oyunu\Flappy Bird Oyunu\bin\Debug\Flappy Bird Oyunu.pdb
+C:\Users\06ahm\source\repos\Flappy Bird Oyunu\Flappy Bird Oyunu\obj\Debug\Flappy Bird Oyunu.csprojAssemblyReference.cache
+C:\Users\06ahm\source\repos\Flappy Bird Oyunu\Flappy Bird Oyunu\obj\Debug\Flappy_Bird_Oyunu.Form1.resources
+C:\Users\06ahm\source\repos\Flappy Bird Oyunu\Flappy Bird Oyunu\obj\Debug\Flappy_Bird_Oyunu.Properties.Resources.resources
+C:\Users\06ahm\source\repos\Flappy Bird Oyunu\Flappy Bird Oyunu\obj\Debug\Flappy Bird Oyunu.csproj.GenerateResource.cache
+C:\Users\06ahm\source\repos\Flappy Bird Oyunu\Flappy Bird Oyunu\obj\Debug\Flappy Bird Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\06ahm\source\repos\Flappy Bird Oyunu\Flappy Bird Oyunu\obj\Debug\Flappy Bird Oyunu.exe
+C:\Users\06ahm\source\repos\Flappy Bird Oyunu\Flappy Bird Oyunu\obj\Debug\Flappy Bird Oyunu.pdb
